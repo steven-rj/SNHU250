@@ -1,7 +1,6 @@
 # SNHU250
 A repo for my SNHU CS250 class
 
-
-    How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-    How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
-    What does it mean to be a good team member in software development?
+    To help ensure developers create a product that fits the needs of the client, they can use customer input in the form of user stories as guidelines when coding throughout the project. Effective user stories can include a step-by-step process of actions an end user would take when interacting with the application, and the expected result. Developers and Testers can use this to verify the app does what it is meant to do.
+    One of the hallmarks of agile development is incremental implementation. This goes hand-in-hand with the programming paradigm we are taught that it is most effecient to code and test a bit at a time, instead of writing a program in its entirety and only then testing it for functionality. The latter is more in-line with Waterfall methodology, while the former is synonomous with the newer Agile project schemes. A programmer can save themselves a lot of time and headache by doing a continuously following a code/test process.
+    The best team members aren't necessary the ones who know everything but rather, are often those with the best attitude. They're willing to learn from their mistakes, and aren't afraid to make them; to fill in their knowledge gaps. They're willing to help out the others on the team, and collaborate well with them. They take pride in their work, and strive to produce the best product for the client that they can deliver. 
